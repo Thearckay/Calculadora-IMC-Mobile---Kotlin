@@ -1,4 +1,4 @@
-# Calculadora de IMC Mobile (Kotlin) 🚀
+# Calculadora de IMC Mobile (Kotlin) 
 
 Aplicativo Android nativo desenvolvido para calcular o Índice de Massa Corporal (IMC) com precisão, utilizando critérios diferenciados para crianças, adolescentes e adultos.
 
